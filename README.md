@@ -1,4 +1,4 @@
-# dabase-system-of-bakery
+# Bakery
 KT1-Specification
 
 КТ2-ER diagram
