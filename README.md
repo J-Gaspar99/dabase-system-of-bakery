@@ -1,4 +1,4 @@
-# Bakery
+# Bakery database system
 KT1-Specification
 
 КТ2-ER diagram
